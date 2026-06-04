@@ -1,0 +1,23 @@
+README.md
+
+Project Title
+ Simple Notes App Using HTML, CSS and JavaScript
+
+Aim of the Project
+ The aim of this project is to develop a simple Notes Application using HTML, CSS, and JavaScript that allows users to add, view, and delete notes easily in a web browser. This project helps to improve basic web development skills and understand the concept of DOM manipulation and Local Storage in JavaScript.
+
+Programs / Technologies Used
+ HTML (for creating the structure of the web page)
+ CSS (for designing and styling the application)
+ JavaScript (for adding functionality and logic)
+ Local Storage (for storing notes in the browser)
+
+Features
+ Add new notes
+ Delete notes
+ View saved notes
+ Data stored in browser (localStorage)
+ Simple and user-friendly interface
+
+Conclusion
+ In conclusion, the Simple Notes App project successfully demonstrates how a basic web application can be built using HTML, CSS, and JavaScript. It allows users to easily add, view, and delete notes in a simple and user-friendly interface. The use of Local Storage helps to store data in the browser, ensuring that notes are not lost even after refreshing the page. This project improves our understanding of web development concepts such as DOM manipulation and client-side storage.
