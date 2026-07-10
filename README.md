@@ -100,21 +100,3 @@ Conclusion
 
 The Notes App is a simple and effective web application for managing personal notes. It improves productivity by allowing users to create, edit, and organize notes efficiently. This project also helped improve my web development skills and provided practical experience with HTML, CSS, JavaScript, Git, and GitHub.
 
-Author
-
-Name: S. Deva Dharshini
-
-Department: B.Tech – Computer Science and Business Systems (CSBS)
-
-College: K.S.B. College of Engineering, Karur
-
-GitHub Repository
-
-Upload the following files:
-
-- index.html
-- style.css
-- script.js
-- README.md
-
-After uploading, your project will be ready to showcase on GitHub.
